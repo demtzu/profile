@@ -1,0 +1,122 @@
+body {
+  background: linear-gradient(-34deg, #97E4CA, #AFDAFD);
+}
+
+.img-circle {
+  border-radius: 50%;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.1);
+  width: 120px;
+  height: 120px;
+  text-align: center;
+  margin: auto;
+  margin-top: -75px;
+}
+
+.container {
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-left:15px;
+  margin-right:15px;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height:28px;
+  color: #7D7D7D;
+  font-weight: lighter;
+}
+
+#button{
+  margin-top: 100px;
+  background: #3ECF8E;
+  padding: 8px 8px 8px 8px;
+  color: white;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+}
+
+#button:hover {
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3);
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+  line-height:28px;
+  color: #9f9f9f;
+  font-weight: lighter;
+  padding-bottom: 12px;
+}
+
+.card {
+  box-shadow: 2px 2px 100px rgba(0, 0, 0, 0.2);
+  background: #FEFEFE;
+  width: 50%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  border: 100px;
+  text-align: center;
+  border-radius: 1%;
+  padding: 20px 20px 20px 20px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 0px 22px 0px 22px;
+    margin: auto;
+}
+
+.movie-img {
+  height:100px;
+  padding-right: 20px;
+}
+
+/*.content {
+  box-shadow: 2px 2px 100px rgba(0, 0, 0, 0.2);
+  background: #FEFEFE;
+  width: 70%;
+  margin: auto;
+  text-align: center;
+  border-radius: 1%;
+}*/
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #647986;
+  line-height:22px;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #969696;
+  line-height:22px;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  line-height:22px;
+  color: #969696;
+}
+
+a {
+  color: #647986;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #647986;
+  text-decoration: none;
+  font-weight: bold
+}
